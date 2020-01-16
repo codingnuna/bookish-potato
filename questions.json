@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Animal?",
+        "choice1": "Dog *",
+        "choice2": "Cat",
+        "choice3": "Elephant",
+        "choice4": "Horse",
+        "answer": 1
+    },
+    {
+        "question": "Car?",
+        "choice1": "Truck",
+        "choice2": "Taxi",
+        "choice3": "Bus *",
+        "choice4": "Fire Engine",
+        "answer": 3
+    },
+    {
+        "question": "Fruit?",
+        "choice1": "Apple",
+        "choice2": "Orange",
+        "choice3": "Banana",
+        "choice4": "Kiwi *",
+        "answer": 4
+    }
+]
